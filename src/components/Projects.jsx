@@ -57,8 +57,8 @@ const projects = [
     }
   },
   {
-    title: "Blog Platform with Real-time Chat",
-    description: "A full-stack blog platform with CRUD operations, authentication, dynamic routing, and real-time chat functionality using Socket.IO for persistent, multi-user messaging.",
+    title: "Real-time Chat Web Application",
+    description: "A full-stack real time chat platform with CRUD operations, authentication, dynamic routing, and real-time chat functionality using Socket.IO for persistent, multi-user messaging.",
     technologies: ["React", "Vite", "Node.js", "Express", "MongoDB", "Socket.IO", "JWT", "REST API"],
     achievements: [
       "Implemented real-time chat functionality using Socket.IO",
